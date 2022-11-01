@@ -18,6 +18,10 @@ Current weather and 5-day forecaster App using API
 # [Deployed Website](https://micky-ad.github.io/Weather-App/)
 # [Repository](https://github.com/Micky-Ad/Weather-App)
 
+
+# Screenshot:
+----------------------------------------------------------------------
+
  ![alt text](./assets/image/Screenshot.PNG)
 
 # Usage:
@@ -27,12 +31,12 @@ Current weather and 5-day forecaster App using API
 
 # Built with
 -----------------------------------------------------------------------
- ### Html
- ### Css
- ### Javascript
- ### Bootstrap
- ### Jquery
- ### Moment.js
+ - Html
+ - Css
+ - Javascript
+ - Bootstrap
+ - Jquery
+ - Moment.js
 
 # License:
 -----------------------------------------------------------------------
