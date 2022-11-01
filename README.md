@@ -4,11 +4,14 @@ Current weather and 5-day forecaster App using API
 
 # Features for the App 
 -----------------------------------------------------------------------  
-User input  for a city user and presented with current and future conditions for that city and that city is added to the search history
-User’s input selected with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, and the wind speed
-View future weather conditions for that city with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity
-When user click on a city in the search history app to presented with current and future conditions for that city.
+  - Promts user to input a city and presents the current and future weather conditions for that city. When user searches for another city the previous city is added to     the search history.
+  - User’s input displyed with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, and the wind speed
+  - View future weather conditions for that city with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity
+  - When user click on a city in the search history the app to presented with current and future conditions for that city.
 
+# Api's used:
+-----------------------------------------------------------------------
+​# [open weather API] (https://openweathermap.org/api)
 
 # Links
 -----------------------------------------------------------------------
@@ -20,6 +23,8 @@ When user click on a city in the search history app to presented with current an
 # Usage:
 ----------------------------------------------------------------------
 ​ Current and 5 day weather forcast
+
+
 # Built with
 -----------------------------------------------------------------------
  ### Html
@@ -29,14 +34,8 @@ When user click on a city in the search history app to presented with current an
  ### Jquery
  ### Moment.js
 
-
-# Api's used:
------------------------------------------------------------------------
-​# [open weather API] (https://openweathermap.org/api)
-
-
 # License:
-
+-----------------------------------------------------------------------
 MIT License
 
   Copyright (c) [2022]
