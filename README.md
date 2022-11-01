@@ -15,8 +15,8 @@ Current weather and 5-day forecaster App using API
 
 # Links
 -----------------------------------------------------------------------
-# [Deployed Website](https://micky-ad.github.io/Weather-App/)
-# [Repository](https://github.com/Micky-Ad/Weather-App)
+### [Deployed Website](https://micky-ad.github.io/Weather-App/)
+### [Repository](https://github.com/Micky-Ad/Weather-App)
 
 
 # Screenshot:
