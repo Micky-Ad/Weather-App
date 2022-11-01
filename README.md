@@ -22,12 +22,12 @@ When user click on a city in the search history app to presented with current an
 ​ Current and 5 day weather forcast
 # Built with
 -----------------------------------------------------------------------
- # Html
- # Css
- # Javascript
- # Bootstrap
- # Jquery
- # Moment.js
+ ### Html
+ ### Css
+ ### Javascript
+ ### Bootstrap
+ ### Jquery
+ ### Moment.js
 
 
 # Api's used:
